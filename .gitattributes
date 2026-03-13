@@ -1,0 +1,14 @@
+*.py linguist-vendored
+*.html linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
+*.json linguist-documentation
+*.toml linguist-documentation
+*.txt linguist-documentation
+*.lock linguist-documentation
+*.cfg linguist-documentation
+*.ini linguist-documentation
+*.md linguist-documentation
+Dockerfile linguist-vendored
+*.yml linguist-vendored
+*.yaml linguist-vendored
